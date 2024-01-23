@@ -3,7 +3,7 @@
 
 
 int main(){
-    std::string str = "Hello Word!";
+    std::string str = "Hell Word!";
     std::cout << str << std::endl;
     
     return 0;
