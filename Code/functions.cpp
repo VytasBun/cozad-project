@@ -1,10 +1,6 @@
 #include "functions.hpp"
 #include <iostream>
 
-
-int main(){
-    std::string str = "Hello Word!";
+void Println(std::string str) {
     std::cout << str << std::endl;
-    
-    return 0;
 }
